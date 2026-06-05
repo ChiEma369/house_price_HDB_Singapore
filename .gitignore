@@ -1,0 +1,6 @@
+data_raw/
+data_processed/
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+drive/
